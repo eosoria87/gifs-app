@@ -24,7 +24,6 @@ export const GifsApp = () => {
                     <li>Freezer</li>
                 </ul>
             </div>
-
             {/* Listado de Gifs */}
             <div className="gifs-container">
                 {
