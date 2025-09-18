@@ -23,7 +23,7 @@ export const mockGifs: Gif[] = [
     },
     {
         id: '3',
-        title: 'Happy BDay!',
+        title: 'Happy Birthday!',
         url: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG40N2cyZm1iZGM2aWlhbHF1bnZmdzkxZ29idTY3ZzZkbnowNDg4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xatKdEypHxBjzabUPV/giphy.gif',
         width: 280,
         height: 350,
